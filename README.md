@@ -39,7 +39,6 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 [![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=flat&logo=codeblocks&logoColor=white)](http://www.codeblocks.org/)
 [![Cursor](https://img.shields.io/badge/Cursor-1B1F23?style=flat&logo=Cursor&logoColor=white)](https://www.cursor.so/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/docs)
-[![Cloud Shell](https://img.shields.io/badge/Cloud%20Shell-24292F?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/shell/docs)
 [![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/azure/ai-services/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-009873?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
