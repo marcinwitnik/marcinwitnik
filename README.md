@@ -43,6 +43,8 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
+---
+
 ![Snake dark](https://raw.githubusercontent.com/marcinwitnik/marcinwitnik/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
