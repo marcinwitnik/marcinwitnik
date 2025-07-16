@@ -45,12 +45,3 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 
 ---
 ![Snake dark](https://raw.githubusercontent.com/marcinwitnik/marcinwitnik/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-## Technologie z gradientem
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23ff3578?style=flat&logo=intellij-idea&logoColor=white&labelColor=%232f045b)
-![PyCharm](https://img.shields.io/badge/PyCharm-%2331c1ff?style=flat&logo=pycharm&logoColor=white&labelColor=%23f6ea00)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-%23d32f2f?style=flat&logo=codeblocks&logoColor=white&labelColor=%23303f9f)
-![Azure AI](https://img.shields.io/badge/Azure%20AI-%230078D4?style=flat&logo=microsoft-azure&logoColor=white&labelColor=%23D83B87)
-
-
