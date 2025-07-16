@@ -42,3 +42,6 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 ![Google Cloud Shell](https://img.shields.io/badge/Cloud%20Shell-000000?style=flat&logo=google-cloud&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
+
+![snake animation](https://marcinwitnik.github.io/marcinwitnik/github-contribution-grid-snake.svg)
