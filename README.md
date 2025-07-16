@@ -34,15 +34,14 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23ff3578?style=flat&logo=intellij-idea&logoColor=white&labelColor=%232f045b)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=flat&logo=codeblocks&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-%23d32f2f?style=flat&logo=codeblocks&logoColor=white&labelColor=%23303f9f)
 ![Cursor](https://img.shields.io/badge/Cursor-1B1F23?style=flat&logo=Cursor&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Cloud Shell](https://img.shields.io/badge/Cloud%20Shell-24292F?style=flat&logo=google-cloud&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-
+![Azure AI](https://img.shields.io/badge/Azure%20AI-%230078D4?style=flat&logo=microsoft-azure&logoColor=white&labelColor=%23D83B87)
+![PyCharm](https://img.shields.io/badge/PyCharm-%2331c1ff?style=flat&logo=pycharm&logoColor=white&labelColor=%23f6ea00)
 
 ---
 ![Snake dark](https://raw.githubusercontent.com/marcinwitnik/marcinwitnik/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
