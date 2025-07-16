@@ -15,7 +15,7 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 
 ---
 
-## 💻 Technologie i środowiska, w których pracuję:
+## <img src="https://cdn-icons-png.flaticon.com/512/10058/10058628.png" width="24" /> Technologie i środowiska, w których pracuję:
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
