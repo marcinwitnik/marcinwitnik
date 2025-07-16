@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/FFFFFF/programmer.png" height="22px" /> O mnie
+## <img src="https://img.icons8.com/?size=64&id=tHWkBwR7FEff&format=png&color=FFFFFF" height="22px" /> O mnie
 
 Jestem ambitnym programistą. Ukończyłem technikum informatyczne na kierunku Technik Programista, uzyskując kwalifikacje INF.03 i INF.04 z bardzo wysokimi wynikami, a moje umiejętności potwierdzają sukcesy w ogólnopolskich olimpiadach informatycznych.  
 Planuję kontynuować edukację na studiach zaocznych we Wrocławiu, rozwijając jednocześnie karierę w branży IT.  
