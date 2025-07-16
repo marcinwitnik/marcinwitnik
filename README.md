@@ -78,5 +78,6 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 
 ## 📫 Znajdź mnie tutaj:
 
-[![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/marcinwitnik)
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/marcin-witnik-011428375/)
+- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" alt="LinkedIn Icon" /> [LinkedIn](https://www.linkedin.com/in/marcin-witnik-011428375/)
+- <img src="https://cdn.simpleicons.org/github/181717" width="20" alt="GitHub Icon" /> [GitHub](https://github.com/marcinwitnik)
+
