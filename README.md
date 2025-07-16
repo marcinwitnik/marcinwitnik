@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/000000/user-male-circle.png" height="22px" /> O mnie
+## <img src="https://img.icons8.com/ios-filled/50/FFFFFF/programmer.png" height="22px" /> O mnie
 
 Jestem ambitnym programistą. Ukończyłem technikum informatyczne na kierunku Technik Programista, uzyskując kwalifikacje INF.03 i INF.04 z bardzo wysokimi wynikami, a moje umiejętności potwierdzają sukcesy w ogólnopolskich olimpiadach informatycznych.  
 Planuję kontynuować edukację na studiach zaocznych we Wrocławiu, rozwijając jednocześnie karierę w branży IT.  
@@ -15,7 +15,7 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 
 ---
 
-## <img src="https://img.icons8.com/pastel-glyph/64/code--v2.png" height="22px" /> Technologie i środowiska, w których pracuję:
+## <img src="https://img.icons8.com/pastel-glyph/64/FFFFFF/code--v2.png" height="22px" /> Technologie i środowiska, w których pracuję:
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
