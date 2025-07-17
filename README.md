@@ -43,4 +43,5 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 [![PyCharm](https://img.shields.io/badge/PyCharm-009873?style=flat&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 ---
-![Snake animation dark](https://raw.githubusercontent.com/marcinwitnik/marcinwitnik/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake animation](https://raw.githubusercontent.com/marcinwitnik/marcinwitnik/output/github-contribution-grid-snake.svg)
+
