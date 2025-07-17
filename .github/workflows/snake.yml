@@ -18,7 +18,7 @@ jobs:
           github_user_name: marcinwitnik
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push animation to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
