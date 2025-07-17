@@ -45,3 +45,4 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 ---
 ![Snake animation](https://raw.githubusercontent.com/marcinwitnik/marcinwitnik/output/github-contribution-grid-snake.svg)
 
+
