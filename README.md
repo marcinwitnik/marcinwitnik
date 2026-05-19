@@ -25,7 +25,6 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 [![Node.js](https://img.shields.io/badge/Node.js-303030?style=flat&logo=nodedotjs&logoColor=83CD29)](https://nodejs.org/)
 [![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat&logo=php&logoColor=white)](https://www.php.net/docs.php)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/docs)
-
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
@@ -36,11 +35,9 @@ Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedz�
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/docs/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/learn)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://docs.streamlit.io/)
-
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://dev.java/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
 [![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZicgZD0nTTEyIDIgMyA3djEwbDkgNSA5LTVWN2wtOS01eicvPjx0ZXh0IHg9JzEyJyB5PScxNS41JyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LWZhbWlseT0nQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYnIGZvbnQtc2l6ZT0nOScgZm9udC13ZWlnaHQ9JzcwMCcgZmlsbD0nIzY4MjE3QSc%2BQyM8L3RleHQ%2BPC9zdmc%2B)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-303030?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzVDMkQ5MScgZD0nTTIxIDQuNSAxNiAydjcuNEw3IDMgMiA3djEwbDUgNCA5LTYuNFYyMmw1LTIuNXYtMTVaTTcuMiA4LjJsNS41IDMuOC01LjUgMy44TDQuNSAxMy43VjEwLjNsMi43LTIuMVptOC44IDMuOC02IDQuMVY3LjlsNiA0LjFaJy8%2BPC9zdmc%2B)](https://visualstudio.microsoft.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-303030?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nIzAwN0FDQycgZD0nTTIxIDQuMiAxNi44IDIgNy43IDEwLjQgNC4xIDcuNiAyIDkuMSA1LjcgMTIgMiAxNC45bDIuMSAxLjUgMy42LTIuOCA5LjEgOC40IDQuMi0yLjJWNC4yWk0xNi41IDcuOXY4LjJMMTEgMTJsNS41LTQuMVonLz48L3N2Zz4%3D)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-B7315D?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
