@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/emoji/48/waving-hand-emoji.png" width="32" alt="Powitanie"/> Cześć! Jestem Marcin Witnik
+  <img src="https://img.icons8.com/?size=100&amp;id=t9MXyCBFIJCB&amp;format=png&amp;color=FFFFFF" width="32" alt="Powitanie"/> Cześć! Jestem Marcin Witnik
 </h1>
 
 <img src="https://img.icons8.com/ios-filled/50/FFFFFF/graduation-cap.png" width="18" alt="Student"/> Student kierunku Informatyka – Uniwersytet WSB Merito Wrocław  
