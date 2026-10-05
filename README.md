@@ -3,7 +3,6 @@
 </h1>
 
 <img src="https://img.icons8.com/ios-filled/50/FFFFFF/briefcase.png" width="18" alt="Praca"/> AI / Machine Learning Developer – KGHM Polska Miedź S.A. COPI
-
 <img src="https://img.icons8.com/ios-filled/50/FFFFFF/graduation-cap.png" width="18" alt="Student"/> Student kierunku Informatyka – Uniwersytet WSB Merito Wrocław  
 <img src="https://img.icons8.com/ios-filled/50/FFFFFF/code.png" width="18" alt="Technik Programista"/> Technik Programista – INF.03 / INF.04  
 <img src="https://img.icons8.com/ios-filled/50/FFFFFF/trophy.png" width="18" alt="Mistrzostwa IT"/> 1. miejsce w Polsce – Mistrzostwa IT 2023 (Dywizja AI)  
