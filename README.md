@@ -12,9 +12,7 @@
 
 ## <img src="https://img.icons8.com/?size=64&id=tHWkBwR7FEff&format=png&color=FFFFFF" height="22px" /> O mnie
 
-Jestem ambitnym programistą. Ukończyłem technikum informatyczne na kierunku Technik Programista, uzyskując kwalifikacje INF.03 i INF.04 z bardzo wysokimi wynikami, a moje umiejętności potwierdzają sukcesy w ogólnopolskich olimpiadach informatycznych.  
-Planuję kontynuować edukację na studiach zaocznych we Wrocławiu, rozwijając jednocześnie karierę w branży IT.  
-Szczególnie interesuję się technologiami AI i stale pogłębiam swoją wiedzę w tym zakresie.
+Jestem ambitnym programistą, absolwentem technikum informatycznego na kierunku Technik Programista, z kwalifikacjami INF.03 i INF.04. Obecnie studiuję informatykę na Uniwersytecie WSB Merito we Wrocławiu oraz pracuję jako AI / Machine Learning Developer w KGHM Polska Miedź S.A. Oddział COPI w Lubinie. Rozwijam swoje umiejętności w obszarze sztucznej inteligencji, programowania i nowoczesnych technologii, łącząc naukę z praktycznym doświadczeniem zawodowym. Szczególnie interesuję się technologiami AI i stale poszerzam swoją wiedzę w tym zakresie.
 
 ---
 
